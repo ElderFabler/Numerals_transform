@@ -1,1 +1,1 @@
-# Numerals_transform
+# Numerals_transform (russian). E.g.: 1235 - "одна тысяча двести тридцать пять"
